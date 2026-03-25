@@ -1,0 +1,165 @@
+Design Adaptable Workshop Templates
+
+# Design Adaptable Workshop Templates
+
+<aside>
+💡
+
+Design powerful, interactive goal-setting workshops with this ChatGPT mega-prompt—crafted by a facilitation expert for teams of any size. Get a comprehensive, fully customizable template with detailed facilitation notes, scalable activities, and actionable follow-up steps to ensure your team leaves energized, aligned, and ready to achieve their goals. 
+
+</aside>
+
+## ⚙️ What This Mega-Prompt Delivers:
+
+● Builds a complete, ready-to-use goal-setting workshop template adaptable for small, medium, or large teams.
+
+● Ensures every session is engaging and collaborative, with activities tailored to maximize participation and learning—whether your team is in-person, remote, or hybrid.
+
+● Equips facilitators with step-by-step notes for each activity, including adjustments for group size, technology tools, and group dynamics, ensuring confident delivery and real impact.
+
+## 💡Tips:
+
+● Choose interactive activities that scale up or down—so a small group feels included and a large group stays energized.
+
+● Use digital tools (like Miro, Jamboard, or breakout rooms) to connect remote and hybrid participants, making the workshop accessible and dynamic for everyone.
+
+● Write facilitation notes with “Plan B” options—so you’re ready to adapt activities if time is tight, energy dips, or group dynamics shift.
+
+## 📝 Goal-Setting Workshop Template Builder — ChatGPT Mega Prompt
+
+```html
+#CONTEXT:
+You are an experienced workshop facilitator and learning designer. Your goal is to create an engaging, comprehensive template for a goal-setting workshop, easily tailored for any team size and context.
+
+#ROLE:
+Facilitator and team development specialist.
+
+#RESPONSE GUIDELINES:
+Structure the workshop with the following sections:
+
+1. Workshop Title
+2. Workshop Duration
+3. Learning Objectives (3 points)
+4. Pre-Workshop Preparation (3 points)
+5. Agenda
+   - 3 Sessions (each with title, duration, and 2 activities)
+     - Activity details: Name, Description, Duration, Materials, Facilitation Notes
+6. Post-Workshop Follow-up (3 points)
+7. Team Size Adaptations
+   - Small Team: [How to adapt for small groups]
+   - Medium Team: [How to adapt for medium groups]
+   - Large Team: [How to adapt for large groups]
+
+#TASK CRITERIA:
+- All core elements of goal-setting should be covered.
+- Template must be easy to adapt for different team sizes and needs.
+- Each activity should be interactive, practical, and promote collaboration.
+- Facilitation notes should guide smooth delivery and allow flexibility.
+- Exclude unnecessary information—focus on impact and usability.
+
+#INFORMATION ABOUT ME:
+- Team Size: [INSERT TEAM SIZE]
+
+#RESPONSE FORMAT:
+Workshop Title: [Title]
+
+Workshop Duration: [Duration]
+
+Learning Objectives:
+1. [Objective 1]
+2. [Objective 2]
+3. [Objective 3]
+
+Pre-Workshop Preparation:
+1. [Preparation 1]
+2. [Preparation 2]
+3. [Preparation 3]
+
+Agenda:
+
+Session 1: [Session Title]
+Duration: [Duration]
+
+Activity 1:
+Name: [Activity Name]
+Description: [Activity Description]
+Duration: [Duration]
+Materials: [Materials]
+Facilitation Notes: [Notes]
+
+Activity 2:
+Name: [Activity Name]
+Description: [Activity Description]
+Duration: [Duration]
+Materials: [Materials]
+Facilitation Notes: [Notes]
+
+Session 2: [Session Title]
+Duration: [Duration]
+
+Activity 1:
+Name: [Activity Name]
+Description: [Activity Description]
+Duration: [Duration]
+Materials: [Materials]
+Facilitation Notes: [Notes]
+
+Activity 2:
+Name: [Activity Name]
+Description: [Activity Description]
+Duration: [Duration]
+Materials: [Materials]
+Facilitation Notes: [Notes]
+
+Session 3: [Session Title]
+Duration: [Duration]
+
+Activity 1:
+Name: [Activity Name]
+Description: [Activity Description]
+Duration: [Duration]
+Materials: [Materials]
+Facilitation Notes: [Notes]
+
+Activity 2:
+Name: [Activity Name]
+Description: [Activity Description]
+Duration: [Duration]
+Materials: [Materials]
+Facilitation Notes: [Notes]
+
+Post-Workshop Follow-up:
+1. [Follow-up 1]
+2. [Follow-up 2]
+3. [Follow-up 3]
+
+Team Size Adaptations:
+Small Team: [Small Team Adaptation]
+Medium Team: [Medium Team Adaptation]
+Large Team: [Large Team Adaptation]
+
+```
+
+## ❓How to Use This Prompt:
+
+● Replace [INSERT TEAM SIZE] with the number or type of participants (e.g., “10 members”, “Small Team: 5–8 people”).
+
+● The more you specify about your context (remote, hybrid, industry, etc.), the more tailored the activities and notes will be.
+
+## 📥 Example Input:
+
+#INFORMATION ABOUT ME:
+
+- Team Size: 12 members (Hybrid team, marketing and product roles)
+
+## 💡Additional Tips:
+
+● Start with a short energizer or icebreaker to build comfort and connection.
+
+● Mix small group discussions with full-team share-outs to maximize engagement for all team sizes.
+
+● Use real team projects and company objectives as examples to keep activities relevant.
+
+● Schedule a follow-up accountability check or action planning session to ensure goals set in the workshop lead to real-world results.
+
+● Continuously refine your template based on participant feedback—great workshops are always evolving!

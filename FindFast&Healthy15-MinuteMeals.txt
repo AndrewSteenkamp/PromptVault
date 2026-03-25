@@ -1,0 +1,105 @@
+Find Fast & Healthy 15-Minute Meals
+
+# Find Fast & Healthy 15-Minute Meals
+
+<aside>
+💡
+
+Effortlessly create healthy, delicious 15-minute meals with this mega-prompt for ChatGPT, specially designed for beginners and busy individuals. Just list what you have, and this tool will craft a quick, balanced recipe with clear instructions and flexible ingredient swaps.
+
+</aside>
+
+---
+
+## ⚙️ What This Mega-Prompt Does:
+
+● Generates a nutritious 15-minute recipe based on your available ingredients.
+
+● Suggests smart ingredient alternatives so the meal stays balanced and accessible—even if you’re missing something.
+
+● Breaks down every step for true beginners: simple prep, quick cooking, easy serving.
+
+## 💡 Tips:
+
+● Pick a cooking style that brings out flavor fast—think stir-frying, pan-searing, or one-pot boiling.
+
+● Use a mix of protein, colorful vegetables, and healthy carbs for the most balanced (and appetizing) plate.
+
+● Always include a swap for each major ingredient (protein, veggies, or carb) so you can cook what you have on hand.
+
+## ⏰ ChatGPT Mega Prompt for Fast & Healthy Recipe Creation
+
+```html
+#CONTEXT:
+You are an expert meal planner and recipe creator. Your job is to develop a healthy, easy-to-follow 15-minute recipe using the ingredients provided by the user. The recipe must be beginner-friendly and require only basic kitchen tools. Whenever possible, suggest alternatives for any hard-to-find ingredients so the recipe is always practical, balanced, and nutritious.
+
+#GOAL:
+Create a recipe that's quick, healthy, tasty, and ideal for busy or novice cooks—total prep and cook time must not exceed 15 minutes.
+
+#RESPONSE GUIDELINES:
+1. Review the ingredients and identify key components (protein, veggies, carbs).
+2. Select a simple, fast cooking method (sauté, boil, steam, etc.).
+3. Write step-by-step instructions: prep, cook, and serve.
+4. Include basic nutrition info (approx. calories and macronutrients).
+5. Offer alternative ingredients for anything that might be hard to find.
+6. Specify how many servings the recipe makes and list the required kitchen equipment.
+7. Add optional tips for leftovers, meal prep, or quick flavor boosts.
+
+**Example Recipe:**
+
+Ingredients: [INGREDIENTS]  
+Alternatives: [ALTERNATIVES FOR INACCESSIBLE INGREDIENTS]  
+Cooking Equipment: [REQUIRED COOKING EQUIPMENT]  
+Portion Size: Serves [NUMBER OF PORTIONS]
+
+Preparation:  
+1. [Step 1 – e.g., Chop vegetables.]  
+2. [Step 2 – e.g., Dice chicken.]
+
+Cooking:  
+1. [Step 1 – e.g., Heat oil in skillet.]  
+2. [Step 2 – e.g., Sauté chicken, then add veggies and cook until tender.]
+
+Serving:  
+- Plate up and enjoy!
+
+Nutritional Info (approx. per serving):  
+- Calories: [calories]  
+- Protein: [g]  
+- Carbs: [g]  
+- Fat: [g]  
+
+#INFORMATION ABOUT ME:
+- My ingredients: [INGREDIENTS]
+- Alternatives for inaccessible ingredients: [ALTERNATIVES FOR INACCESSIBLE INGREDIENTS]
+- Required cooking equipment: [REQUIRED COOKING EQUIPMENT]
+- Number of portions I need: [NUMBER OF PORTIONS]
+
+#OUTPUT:
+A step-by-step, beginner-friendly 15-minute recipe—including alternatives, equipment, and nutrition info. Fast, healthy, and perfect for busy lifestyles!
+```
+
+## ❓How To Use The Prompt:
+
+● Plug in your details for `[INGREDIENTS]`, `[ALTERNATIVES FOR INACCESSIBLE INGREDIENTS]`, `[REQUIRED COOKING EQUIPMENT]`, and `[NUMBER OF PORTIONS]`.
+
+**Example Input:**
+
+- Ingredients: chicken breast, broccoli, garlic, olive oil, salt, pepper
+- Alternatives: tofu for chicken, cauliflower for broccoli, onion powder for garlic
+- Equipment: skillet, chopping board, knife
+- Portions: 2
+
+---
+
+## 💡 Additional Tips:
+
+● Minimize steps—aim for a truly quick recipe by keeping instructions clear and concise.
+
+● Rely on widely available ingredients, but always offer at least one swap for each core component.
+
+● Ensure every meal has protein, veggies, and a healthy carb for balance.
+
+● Make instructions foolproof: use precise measurements and times, with no jargon.
+
+● Add an optional tip at the end for flavor (herbs, sauces, or quick toppings) to make the meal your own.

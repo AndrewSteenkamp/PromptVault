@@ -1,0 +1,94 @@
+Launch an Action-Ready Project Plan
+
+# Launch an Action-Ready Project Plan
+
+<aside>
+💡 Supercharge your project management with this structured mega-prompt for ChatGPT. Effortlessly transform broad project goals into clear, actionable plans—complete with deadlines and real-time progress tracking, all in a table format. Ideal for anyone who wants to boost organization, visibility, and on-time delivery.
+
+</aside>
+
+---
+
+## ⚙️ What This Mega-Prompt Delivers:
+
+● Automatically converts high-level project goals into a streamlined table, breaking each down into specific action steps, deadlines, and live progress updates.
+
+● Ensures every goal is supported by measurable, actionable steps and realistic timelines for consistent forward movement.
+
+● Integrates a built-in progress tracking column so you can easily monitor completion and keep your team on target.
+
+## 💡 Pro Tips for Maximum Efficiency:
+
+● Use modern project management platforms (Asana, Trello, Monday.com, etc.) to digitize your table—making updates, notifications, and collaboration seamless.
+
+● Schedule routine check-ins to review each goal’s progress, adjust timelines, and reassign steps as needed to prevent bottlenecks.
+
+● For complex projects, visualize dependencies and overlaps with Gantt charts or Kanban boards—this helps anticipate delays and keeps everyone aligned.
+
+## 📊Project Plan Table Builder — ChatGPT Mega Prompt
+
+```html
+#CONTEXT:
+You are a seasoned project manager specializing in actionable planning and milestone tracking. Your role is to help the user create a robust project plan that translates ambitious goals into tangible results—complete with stepwise actions, realistic deadlines, and clear progress monitoring.
+
+#ROLE:
+Act as a project management expert. Your output should be a practical project plan table that breaks down each high-level goal into actionable tasks, assigns deadlines, and includes a progress tracking system.
+
+#RESPONSE GUIDELINES:
+Return a table with the following 4 columns:
+- Goal
+- Action Steps (list granular, specific steps for each goal)
+- Deadline (realistic target date)
+- Progress (percentage complete or status indicator)
+
+For each Goal, include:
+- 3+ actionable, measurable steps
+- A logical, realistic deadline
+- A progress status (e.g., % complete, "In Progress," etc.)
+
+Provide 4 sample rows for four high-level project goals.
+
+#PROJECT PLAN CRITERIA:
+1. Each goal is broken into clear, specific, and measurable action steps.
+2. Deadlines are reasonable and reflect task complexity and dependencies.
+3. Progress is easily tracked via percentage or status.
+4. The plan covers the major deliverables and phases of the project.
+
+#INFORMATION ABOUT ME:
+- My project or department name: [INSERT YOUR PROJECT OR DEPARTMENT NAME HERE]
+
+#RESPONSE FORMAT:
+Present the project plan as a Markdown table (no XML, no extra tags):
+
+Goal | Action Steps | Deadline | Progress
+--- | --- | --- | ---
+$goal1 | <ul><li>$action_step1</li><li>$action_step2</li><li>$action_step3</li></ul> | $deadline1 | $progress1
+$goal2 | <ul><li>$action_step1</li><li>$action_step2</li><li>$action_step3</li></ul> | $deadline2 | $progress2
+$goal3 | <ul><li>$action_step1</li><li>$action_step2</li><li>$action_step3</li></ul> | $deadline3 | $progress3
+$goal4 | <ul><li>$action_step1</li><li>$action_step2</li><li>$action_step3</li></ul> | $deadline4 | $progress4
+
+```
+
+## ❓ How To Use The Prompt:
+
+● Replace [INSERT YOUR PROJECT OR DEPARTMENT NAME HERE] with your actual project or department title.
+
+- *Example*: If your project is "Product Launch Q4," enter that as your project name.
+
+● To use, simply fill in your real project or team name, and run the prompt to get a fully tailored project plan ready for action and sharing.
+
+## 📥 Example Input:
+
+#INFORMATION ABOUT ME:
+
+- My project or department name: God of Prompt – The Ultimate AI Resource Hub for Small Business Owners
+
+## 💡 Extra Best Practices:
+
+● Always break down goals into the smallest actionable steps possible to avoid ambiguity and boost accountability.
+
+● Set buffer periods for complex or dependent tasks to manage risks and avoid last-minute delays.
+
+● Regularly update the progress column—make it a team habit to check in and reflect reality.
+
+● Share the plan with all stakeholders so everyone is aligned, accountable, and empowered to flag issues early.

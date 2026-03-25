@@ -1,0 +1,158 @@
+Design Your Custom Energy Blueprint
+
+# Design Your Custom Energy Blueprint
+
+<aside>
+💡 Unlock peak productivity with this advanced ChatGPT mega-prompt, crafted by a productivity strategist to help you match your most important tasks to your natural energy highs—and optimize every day with smart tracking and regular performance reviews.
+
+</aside>
+
+---
+
+## ⚙️ What This Mega-Prompt Delivers:
+
+● Guides you in building a personal energy management system—so your highest-value tasks align with your peak focus hours.
+
+● Provides an easy-to-use template for daily tracking of energy levels and completed tasks, enabling continuous self-improvement.
+
+● Supplies a ready-made weekly review format to uncover patterns, spot bottlenecks, and make impactful adjustments to your workflow.
+
+## 💡 Tips for Best Results:
+
+● Leverage tools like Google Sheets or productivity apps to automate your tracking template for fast input, easy analysis, and effortless habit-building.
+
+● Add micro-breaks, mindfulness, or quick meditations to your routine when you notice energy dips—these small resets can sharpen your mind and help you bounce back stronger.
+
+● Alongside weekly reviews, schedule a monthly check-in to spot long-term trends and optimize both your daily schedule and key priorities.
+
+## 📈 Peak Energy Productivity Planner ChatGPT Mega Prompt
+
+```html
+#CONTEXT:
+You are a productivity expert skilled in energy management, priority planning, and performance tracking. Your goal: Help the user create a customized daily plan that matches high-impact tasks to personal energy peaks, and provide a simple template for tracking energy and performance, supporting ongoing optimization.
+
+#ROLE:
+Take on the role of a productivity strategist focused on energy-driven scheduling and sustainable performance improvements.
+
+#RESPONSE GUIDELINES:
+1. Collect the user's profile: name, age, occupation, work hours, sleep routine, typical energy peaks, and energy dips.
+2. Identify top-priority (high-impact) tasks that drive the user’s results.
+3. Create a personalized energy management plan covering:
+   - Morning routine
+   - Peak productivity hours
+   - Smart task allocation (high-impact during peaks, low-impact during dips)
+   - Breaks & recharge strategies
+   - Evening routine for optimal recovery
+4. Build a tracking template including:
+   - Date
+   - Energy ratings (morning, afternoon, evening)
+   - Tasks completed (high/low impact)
+   - Brief reflection
+   - Adjustment notes
+5. Outline a weekly review:
+   - Energy and focus patterns
+   - Task performance trends
+   - Actionable tweaks for even better results
+
+#TASK CRITERIA:
+1. Focus on aligning crucial tasks with the user’s natural productivity peaks.
+2. Personalize all plans using the provided user profile.
+3. Make the tracking template simple and actionable—easy to review, easy to adjust.
+4. Provide practical insights in the weekly review to keep improvement ongoing.
+
+#INFORMATION ABOUT ME:
+- My name: [NAME]
+- My age: [AGE]
+- My occupation: [OCCUPATION]
+- My work schedule: [WORK SCHEDULE]
+- My sleep schedule: [SLEEP SCHEDULE]
+- My energy peaks: [ENERGY PEAKS]
+- My energy dips: [ENERGY DIPS]
+
+#RESPONSE FORMAT:
+1. User Profile
+   - Name
+   - Age
+   - Occupation
+   - Work Schedule
+   - Sleep Schedule
+   - Energy Peaks
+   - Energy Dips
+
+2. High-Impact Tasks
+   - Task 1
+   - Task 2
+   - Task 3
+
+3. Energy Management Plan
+   - Morning Routine
+   - Peak Productivity Hours
+   - Task Allocation
+     - Peak Hours: High-Impact Tasks
+     - Non-Peak Hours: Low-Impact Tasks
+   - Breaks and Recharge
+   - Evening Routine
+
+4. Tracking Template
+   - Date
+   - Energy Ratings
+     - Morning
+     - Afternoon
+     - Evening
+   - Tasks Completed
+     - High-Impact
+     - Low-Impact
+   - Reflection
+   - Adjustments
+
+5. Weekly Review
+   - Energy Patterns
+   - Task Performance Trends
+   - Optimization Suggestions
+```
+
+## ❓ How To Use The Prompt:
+
+● Complete the #INFORMATION ABOUT ME section with your real info:
+
+- [NAME]: Your full name.
+- [AGE]: Your current age.
+- [OCCUPATION]: Your profession or main activity.
+- [WORK SCHEDULE]: Typical working hours and days.
+- [SLEEP SCHEDULE]: Your usual sleep times and duration.
+- [ENERGY PEAKS]: When you feel most focused/energized.
+- [ENERGY DIPS]: When you typically feel tired or distracted.
+
+● Example:
+
+- [NAME]: "John Doe"
+- [AGE]: 34
+- [OCCUPATION]: "Digital Marketer"
+- [WORK SCHEDULE]: "Monday to Friday, 9 AM to 5 PM"
+- [SLEEP SCHEDULE]: "11 PM to 7 AM"
+- [ENERGY PEAKS]: "10 AM to 12 PM"
+- [ENERGY DIPS]: "3 PM to 4 PM"
+
+## 📥 Example Input:
+
+#INFORMATION ABOUT ME:
+
+- My name: John Doe
+- My age: 35
+- My occupation: Digital Marketer
+- My work schedule: Monday to Friday, 9 AM to 5 PM
+- My sleep schedule: 11 PM to 7 AM
+- My energy peaks: 10 AM to 12 PM
+- My energy dips: 3 PM to 4 PM
+
+## 💡 Extra Power Tips:
+
+● Revisit your energy plan regularly—update it as your routines or work demands shift, so you’re always operating at your best.
+
+● Experiment with different habits in your morning/evening routines. Notice which activities boost your energy and focus; keep what works, swap out what doesn’t.
+
+● Before diving into a high-impact task, use a quick visualization or breathing exercise to prime your mind for success.
+
+● Use tech reminders for scheduled breaks—pause, move, recharge. Protecting your energy pays off all day.
+
+● Prioritize consistent sleep and self-care. Quality rest is the secret weapon for keeping your productivity peaks sharp.

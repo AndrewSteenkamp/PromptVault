@@ -1,0 +1,63 @@
+Learning Support Tool
+
+Analyze the main themes in Shakespeare’s “Macbeth,” such as ambition, fate, and guilt, with specific examples from the play.
+
+Create a short and natural Spanish dialogue between two friends meeting at a café, including greetings, small talk, and ordering drinks.
+
+Create a structured outline for an essay discussing how social media has changed modern communication, including both positive and negative effects.
+
+Describe Einstein’s theory of relativity in simple terms that a high school student can grasp, using real-life examples or analogies.
+
+Describe the theory of classical conditioning in psychology, using a simple example like Pavlov’s dogs to illustrate how behaviors can be learned.
+
+Describe the development of jazz music throughout the 20th century, highlighting key artists, styles, and cultural impact.
+
+Describe the main characteristics of Baroque art and how it influenced European painting in terms of emotion, light, and movement.
+
+Describe the main geographical features of the Himalayan region, including major peaks, climate zones, and geological formation.
+
+Describe the process of photosynthesis in plants in a fun and engaging way that would keep a high school biology student interested.
+
+Discuss how global warming affects Arctic ecosystems, focusing on ice melt, wildlife disruption, and feedback loops.Discuss the concept of justice in philosophy, highlighting how philosophers like Plato, Aristotle, and John Rawls have defined and applied it in their theories.
+
+Discuss the main principles of democracy and how they have influenced political systems globally, with examples.
+
+Explain how the human respiratory system works, from inhaling air to oxygen exchange in the lungs, in clear, student-friendly language.
+
+Explain Plato’s theory of Forms in simple, accessible terms, using everyday analogies to illustrate abstract concepts.
+
+Explain quantum physics in simple, engaging terms suitable for a curious high school student with no prior knowledge of advanced science. Use analogies where helpful.
+
+Explain climate change in simple terms, focusing on how human activities contribute to global warming and the subsequent effects on ecosystems and human societies.
+
+Explain the concept of supply and demand in a market economy using simple language and a real-world example like smartphone pricing.
+
+Explain the economic principle of supply and demand in simple terms, using everyday examples like the price of fruit in a supermarket or concert ticket sales.
+
+Explain the lifecycle of a star from its formation in a nebula to its potential end as a supernova, using simple scientific terms.
+
+Explain why the Renaissance was significant for shaping modern Western culture, focusing on art, science, and philosophy in accessible language.
+
+Generate a plot outline for a mystery novel set in a small coastal town, including the protagonist, setting, conflict, twists, and resolution.
+
+Narrate the historical events leading up to World War I in the form of a dramatic, chronological story with characters representing major countries.
+
+Outline a persuasive speech on why renewable energy sources are crucial, with a clear structure: hook, problem, solution, and call to action.
+
+Outline key strategies for managing a corporate team effectively, including communication, delegation, motivation, and conflict resolution.
+
+Outline the main points for an academic essay on the impacts of climate change, dividing the ideas into introduction, body paragraphs, and conclusion.
+
+Provide a clear, step-by-step guide for solving basic linear equations, using examples and explaining the logic behind each operation.
+
+Summarize the main causes of the Industrial Revolution, such as technological advancements and urbanization, and discuss its effects on global economies and societies.
+
+Summarize the core beliefs of Buddhism in a clear and respectful way, focusing on the Four Noble Truths and the Eightfold Path.
+
+Walk through the full process of solving a standard quadratic equation step by step, using one clear example with explanations for each step.
+
+Write a beginner-friendly Python script for a basic calculator that performs addition, subtraction, multiplication, and division using user input.
+
+Write a short, realistic French dialogue between two friends planning a summer vacation, including dates, preferences, and possible destinations.
+
+

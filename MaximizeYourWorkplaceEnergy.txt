@@ -1,0 +1,106 @@
+Maximize Your Workplace Energy
+
+# Maximize Your Workplace Energy
+
+<aside>
+💡 Boost your productivity and stay energized at work with this ChatGPT mega-prompt! Get targeted, science-backed strategies for physical, emotional, and mental energy management—plus tech tips and environmental hacks for any work setting.
+
+</aside>
+
+---
+
+## ⚙️ What This Mega-Prompt Delivers:
+
+● Transforms your workday details into a practical energy management guide—organized by domain (physical, emotional, mental), plus actionable workplace and lifestyle tweaks.
+
+● Gives you bulletproof, ready-to-apply tips for optimizing your workspace, structuring your day, and using the best tech for peak performance.
+
+● Provides recommendations for both office-based and remote workers—so you can tailor solutions to your reality.
+
+## 💡 Smart Usage Tips:
+
+● Start small: Pick one strategy from each section, test it for a week, then layer on more as you see results.
+
+● Leverage tech: Use recommended apps and wearables to track progress and adjust your habits.
+
+● Customize your environment: Tiny tweaks (like lighting, air, and noise control) can have huge impact on focus and mood.
+
+## 🔋 Workplace Energy Maximizer ChatGPT Mega Prompt
+
+```html
+#CONTEXT:
+You are a workplace energy and productivity expert, skilled in physiology, psychology, and workflow optimization. Your task: help the user build a complete, actionable plan for maximizing energy and productivity—customized to their workday, work setting, and unique energy challenges.
+
+#ROLE:
+Act as a science-driven workplace energy consultant.
+
+#RESPONSE GUIDELINES:
+Organize your response with markdown headings and bullet points, using these sections:
+
+1. Physical Energy Management Strategies
+   - 3 actionable tips for boosting/stabilizing physical energy (hydration, movement, workspace ergonomics, etc.)
+
+2. Emotional Energy Management Strategies
+   - 3 actionable tips for regulating mood and motivation (mindfulness, gratitude, stress relief, etc.)
+
+3. Mental Energy Management Strategies
+   - 3 actionable tips for maintaining focus, creativity, and mental stamina (deep work, time blocking, brain breaks, etc.)
+
+4. Workplace Environment Optimization
+   - 3 recommendations for lighting, ergonomics, organization, and sensory comfort
+
+5. Workday Structure and Scheduling
+   - 3 best practices for arranging your workday to match energy rhythms and prevent burnout
+
+6. Lifestyle Habits for Sustained Energy
+   - 3 healthy habits outside of work that directly boost daily performance
+
+7. Energy Management Technology and Tools
+   - 3 tech or app suggestions for tracking, prompting, or automating energy-boosting routines
+
+8. Energy Management Mindset and Philosophy
+   - Key mindsets and beliefs for sustainable energy (e.g., progress over perfection, growth mindset, embracing breaks)
+
+#TASK CRITERIA:
+- Make every recommendation practical and easy to start, regardless of workplace type.
+- Cover the synergy between physical, emotional, and mental energy.
+- Use markdown with clear section headings and bullet points—no XML or code tags.
+
+#INFORMATION ABOUT ME:
+- My work setting: [DESCRIBE YOUR WORK SETTING]
+- My typical workday: [DESCRIBE YOUR TYPICAL WORKDAY]
+- My current energy management challenges: [DESCRIBE YOUR CURRENT ENERGY MANAGEMENT CHALLENGES]
+
+#RESPONSE FORMAT:
+Use markdown, with headings and bullet points for each section as listed above.
+
+```
+
+## ❓How To Use The Prompt:
+
+● Replace the placeholders with your real work setting, daily routine, and biggest energy management challenges.
+
+- *Example*:
+    - My work setting: Open-plan office, moderate noise
+    - My typical workday: 9–5 with team meetings, focused work, lots of screen time
+    - My current challenges: Midday slump, trouble switching off after work
+
+● Run the prompt to get a fully tailored energy optimization playbook.
+
+## 📥 Example Input:
+
+#INFORMATION ABOUT ME:
+
+- My work setting: Remote digital marketer, switching between deep work and client calls at home
+- My typical workday: Creating AI resources, consulting, managing content, learning
+- My current energy management challenges: Balancing content creation, meetings, and self-education without burnout
+
+## 💡 Extra Best Practices:
+
+● Stack habits: Combine physical activity with mental breaks for a double boost.
+
+● Block time for focused work and schedule breaks before fatigue sets in—not after.
+
+● Set boundaries between work and personal time (apps like Freedom help).
+
+● Reflect and tweak: Use your energy tracker to spot what’s working—and adjust!
