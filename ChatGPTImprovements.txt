@@ -1,0 +1,249 @@
+
+ChatGPT Improvements
+Asking the language model to identify root causes
+What techniques can I use to guide the language model to explore the underlying causes of a problem or issue? (Format: Tips)
+
+ 
+
+Connecting disparate ideas in responses
+What strategies can I use to write prompts that inspire the language model to make connections between unrelated concepts? (Format: Strategy guide)
+
+ 
+
+Considering both pros and cons in responses
+What are some approaches to writing prompts that encourage the language model to assess both the advantages and disadvantages of a decision or action? (Format: Strategy guide)
+
+ 
+
+Considering cultural and societal influences in prompts
+What strategies can I use to write prompts that get the language model to think about how societal and cultural factors impact a particular issue? (Format: Tips)
+
+ 
+
+Considering ethical implications in prompts
+How can I create prompts that encourage the language model to consider the ethical and moral implications of its answers? (Format: Strategy guide)
+
+ 
+
+Considering long-term impact in prompts
+How can I write prompts that encourage the language model to reflect on the long-term effects of its answers? (Format: Strategy guide)
+
+ 
+
+Considering power dynamics in responses
+How can I write prompts that encourage the language model to reflect on the impact of power imbalances on individuals and communities? (Format: Strategy guide)
+
+ 
+
+Crafting prompts for critical and creative thought
+What are the most effective techniques for creating prompts that push the language model to think critically and creatively about a subject? (Format: Strategy guide)
+
+ 
+
+Crafting prompts for emotional and personal responses
+How can I write prompts that evoke more personal and emotional responses from the language model? (Format: Strategy guide)
+
+ 
+
+Crafting prompts for original and innovative ideas
+How can I write prompts that encourage the language model to come up with unique and original ideas? (Format: Strategy guide)
+
+ 
+
+Crafting prompts for persuasive responses
+How can I write prompts that will result in more convincing and persuasive answers from the language model? (Format: Tips)
+
+ 
+
+Encouraging agency and influence in future-oriented prompts
+What are some strategies for writing prompts that prompt the language model to think about the role of human agency in shaping the future? (Format: Tips)
+
+ 
+
+Encouraging community building in prompts
+What are some tips for writing prompts that encourage the language model to reflect on how community and social connections influence well-being? (Format: Tips)
+
+ 
+
+Encouraging consideration of long-term outcomes
+What are some techniques for writing prompts that lead the language model to think about the long-term effects of a decision or action? (Format: Tips)
+
+ 
+
+Encouraging diverse sources in responses
+How can I write prompts that ensure the language model incorporates multiple perspectives and sources to provide a comprehensive response? (Format: Strategy guide)
+
+ 
+
+Encouraging multiple viewpoints in responses
+What approaches can I take when writing prompts to get the language model to consider several perspectives and solutions to a challenge? (Format: Tips)
+
+ 
+
+Ensuring informative and relevant responses
+What strategies can I use to make sure that my prompts generate more useful and relevant answers from the language model? (Format: Strategy guide)
+
+ 
+
+Including ethical considerations in prompts
+What methods can I use to write prompts that make the language model consider ethical and moral aspects of decision-making? (Format: Strategy guide)
+
+ 
+
+Writing balanced prompts
+What are some tips for writing prompts that lead to well-rounded and balanced answers from the language model? (Format: Tips)
+
+ 
+
+Writing clear and understandable prompts
+What are some strategies for writing prompts that encourage the language model to provide straightforward and easy-to-understand answers? (Format: Tips)
+
+ 
+
+Writing comprehensive prompts
+What are some strategies for writing prompts that result in thorough and complete answers from the language model? (Format: Strategy guide)
+
+ 
+
+Writing concise and direct prompts
+What strategies can I use to write prompts that result in clear and to-the-point answers from the language model? (Format: Tips)
+
+ 
+
+Writing context-aware prompts
+How can I create prompts that encourage the language model to consider the cultural and social context when answering? (Format: Strategy guide)
+
+ 
+
+Writing creative prompts
+How can I write prompts that inspire the language model to think creatively and produce innovative answers? (Format: Strategy guide)
+
+ 
+
+Writing critical thinking prompts
+How can I create prompts that push the language model to apply critical thinking and analysis in its answers? (Format: Strategy guide)
+
+ 
+
+Writing culturally sensitive prompts
+How can I write prompts that encourage the language model to provide more culturally inclusive and sensitive responses? (Format: Tips)
+
+ 
+
+Writing diverse and inclusive prompts
+How can I write prompts that ensure the language model responds with diverse and inclusive perspectives? (Format: Tips)
+
+ 
+
+Writing engaging prompts
+What are some tips for writing prompts that result in engaging and thought-provoking answers from the language model? (Format: Tips)
+
+ 
+
+Writing expertise-driven prompts
+How can I create prompts that encourage the language model to leverage its expertise for the most relevant responses? (Format: Strategy guide)
+
+ 
+
+Writing informed prompts with historical context
+How can I create prompts that help the language model consider the historical background and context of a topic to provide a more informed answer? (Format: Strategy guide)
+
+ 
+
+Writing insightful prompts
+What are some strategies for writing prompts that produce insightful and thought-provoking answers from the language model? (Format: Strategy guide)
+
+ 
+
+Writing optimistic and hopeful prompts
+How can I write prompts that encourage the language model to provide a more optimistic and hopeful response? (Format: Strategy guide)
+
+ 
+
+Writing persuasive prompts
+What strategies can I use to write prompts that encourage the language model to provide persuasive and convincing answers? (Format: Strategy guide)
+
+ 
+
+Writing prompts about technology’s role in problem-solving
+How can I create prompts that ask the language model to consider how technology and innovation can address complex challenges? (Format: Strategy guide)
+
+ 
+
+Writing prompts for accurate and specific answers
+What steps can I take to write prompts that ensure the language model provides the most accurate and specific responses? (Format: Strategy guide)
+
+ 
+
+Writing prompts for art and creativity’s role in empathy
+What are some tips for writing prompts that encourage the language model to reflect on how art and creativity foster empathy and understanding? (Format: Tips)
+
+ 
+
+Writing prompts for collaboration and cooperation
+What strategies can I use to craft prompts that get the language model to consider the importance of collaboration in solving complex problems? (Format: Strategy guide)
+
+ 
+
+Writing prompts for deep and creative exploration
+How can I create prompts that encourage the language model to think deeply and creatively about a difficult or complex subject? (Format: Strategy guide)
+
+ 
+
+Writing prompts for detailed and nuanced responses
+How can I structure prompts that encourage the language model to provide more nuanced and in-depth answers? (Format: Strategy guide)
+
+ 
+
+Writing prompts for the role of education in growth
+How can I create prompts that ask the language model to reflect on the role of education and learning in personal and professional development? (Format: Strategy guide)
+
+ 
+
+Writing prompts for thorough and comprehensive answers
+How can I create prompts that guide the language model toward providing detailed and complete responses? (Format: Tips)
+
+ 
+
+Writing prompts that consider long-term effects
+What are some strategies for crafting prompts that encourage the language model to think about the long-term consequences of current policies and decisions? (Format: Strategy guide)
+
+ 
+
+Writing prompts that encourage self-awareness and growth
+What strategies can I use to craft prompts that encourage the language model to explore the importance of self-reflection in personal growth? (Format: Strategy guide)
+
+ 
+
+Writing prompts that encourage up-to-date knowledge
+How can I write prompts that encourage the language model to utilize the most current and relevant information available? (Format: Strategy guide)
+
+ 
+
+Writing prompts that generate solutions
+How can I write prompts that encourage the language model to propose solutions and next steps to resolve a particular issue? (Format: Strategy guide)
+
+ 
+
+Writing prompts that incorporate data and evidence
+How can I write prompts that guide the language model to support its answers with data and evidence? (Format: Strategy guide)
+
+ 
+
+Writing reliable and trustworthy prompts
+What are some tips for writing prompts that generate reliable and trustworthy answers from the language model? (Format: Tips)
+
+ 
+
+Writing stakeholder-aware prompts
+How can I write prompts that encourage the language model to consider the impact of its answers on various stakeholders? (Format: Strategy guide)
+
+ 
+
+Writing targeted prompts
+What are some tips for writing prompts that generate the most relevant and targeted responses from the language model? (Format: Tips)
+
+ 
+
+Writing well-researched prompts
+What are some tips for writing prompts that lead to well-researched and comprehensive answers from the language model? (Format: Tips)

@@ -1,0 +1,159 @@
+
+For creators
+Analyze the given language code for code smells and suggest improvements.
+Review the following language code for code smells and recommend improvements. (Format: Strategy guide)
+
+ 
+
+Analyze the given SQL query for proper indexing.
+Review this SQL query for indexing optimization. (Format: Optimization guide)
+
+ 
+
+Analyze the given time-series query for any potential performance issues.
+Examine this time-series query for possible performance problems. (Format: Optimization guide)
+
+ 
+
+Assess the test coverage of the following language code.
+Evaluate the test coverage of this language code. (Format: Strategy guide)
+
+ 
+
+Check for deadlock issues in the given language code.
+Identify any deadlock risks in the following language code. (Format: Review guide)
+
+ 
+
+Check for logging and monitoring practices in the language code.
+Verify if the following language code follows best practices for logging and monitoring. (Format: Strategy guide)
+
+ 
+
+Compare the performance of the given NoSQL query using different NoSQL databases.
+Evaluate the performance of this NoSQL query using MongoDB, Cassandra, or Couchbase. (Format: Optimization guide)
+
+ 
+
+Compare the performance of this time-series query across different time-series databases.
+Compare the performance of this time-series query across InfluxDB, TimescaleDB, and OpenTSDB. (Format: Optimization guide)
+
+ 
+
+Complete the implementation of a design pattern in language for use case.
+Fill in the gaps in the language implementation of the design pattern for use case. (Format: Strategy guide)
+
+ 
+
+Convert data structure into output format in language.
+Finish the language code to convert this data structure into the desired output format. (Format: Strategy guide)
+
+ 
+
+Create a chatbot interaction for comparing and selecting products or services.
+Develop a chatbot interaction that helps users compare and choose products or services. (Format: Strategy guide)
+
+ 
+
+Create an API documentation template for the following language code.
+Generate an API documentation template for the following language code. (Format: Documentation guide)
+
+ 
+
+Create an API reference for the given language library.
+Develop an API reference for the following language library or framework. (Format: Documentation guide)
+
+ 
+
+Design a conversational flow for a reservation chatbot that handles booking a reservation.
+Create a conversational flow for a reservation chatbot that handles booking. (Format: Strategy guide)
+
+ 
+
+Design a personalized recommendation chatbot for a product or service.
+Design a chatbot that gives personalized recommendations for a product or service based on user preferences. (Format: Strategy guide)
+
+ 
+
+Develop a conversational script for a chatbot providing information on a topic.
+Write a conversational script for a chatbot that informs users about a topic. (Format: Strategy guide)
+
+ 
+
+Document the functionality and usage of the following language command-line tool.
+Provide documentation for the functionality and usage of the following language CLI tool. (Format: Documentation guide)
+
+ 
+
+Evaluate compatibility with platform or technology.
+Assess the compatibility of the following language code with platform or technology. (Format: Strategy guide)
+
+ 
+
+Find resource leaks in the following language code and suggest fixes.
+Look for resource leaks in the provided language code and suggest possible solutions. (Format: Review guide)
+
+ 
+
+Generate a user guide for the given language RESTful API.
+Create a user guide for the following language RESTful API. (Format: Documentation guide)
+
+ 
+
+Identify potential performance issues in the given language code.
+Pinpoint performance bottlenecks in the following language code. (Format: Review guide)
+
+ 
+
+Implement a caching mechanism in language for the following function.
+Complete the missing parts of the language code to apply a caching mechanism for this function. (Format: Strategy guide)
+
+ 
+
+Implement a chatbot that understands and responds to user intents in a specific context.
+Build a chatbot that can process and respond to user intents in specific contexts. (Format: Strategy guide)
+
+ 
+
+Locate any logic errors in the following language code snippet.
+Find any logic issues in this language code. (Format: Review guide)
+
+ 
+
+Multithreading solution in language for problem.
+Complete the language implementation of a multithreading solution for the following problem. (Format: Strategy guide)
+
+ 
+
+Optimize the following GraphQL query for better performance.
+Optimize this GraphQL query to improve its performance. (Format: Optimization guide)
+
+ 
+
+Optimize the following time-series query for a database like InfluxDB or TimescaleDB.
+Optimize this time-series query for better performance on platforms like InfluxDB or TimescaleDB. (Format: Optimization guide)
+
+ 
+
+Produce a tutorial for using the following language API with example code.
+Write a tutorial for using the following language API with example code. (Format: Documentation guide)
+
+ 
+
+Review language code for scalability issues.
+Examine the following language code for potential scalability concerns. (Format: Strategy guide)
+
+ 
+
+Review language code for SQL injection vulnerabilities.
+Analyze the following language code for potential SQL injection vulnerabilities. (Format: Review guide)
+
+ 
+
+Suggest improvements to the following database schema for better query performance.
+Propose improvements to this database schema to enhance query performance. (Format: Optimization guide)
+
+ 
+
+Suggest indexing or partitioning strategies for the following time-series query.
+Recommend indexing or partitioning strategies for this time-series query. (Format: Optimization guide)

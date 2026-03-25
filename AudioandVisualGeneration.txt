@@ -1,0 +1,250 @@
+
+Adding audio or music to videos
+What strategies promote the integration of sound elements in AI-generated videos? (Format: Strategy guide)
+
+ 
+
+AI for audience-targeted video/photo content
+How can AI technology be used to create media that resonates with specific audiences? (Format: Strategy guide)
+
+ 
+
+Applying consumer psychology in visuals
+What tips help write prompts that use psychology to enhance the impact of visual content? (Format: Tips)
+
+ 
+
+Balancing simplicity and challenge
+What tips help write prompts that are clear yet intellectually stimulating for the AI? (Format: Tips)
+
+ 
+
+Best practices for high-quality prompt results
+What are the key principles for generating prompts that produce coherent and well-written AI responses? (Format: Tips)
+
+ 
+
+Challenging for unique and original insights
+What strategies help write prompts that drive original and insightful AI responses? (Format: Strategy guide)
+
+ 
+
+Creating conversational and natural prompts
+What methods make prompts sound more fluid and human-like in conversation? (Format: Tips)
+
+ 
+
+Creating engaging and interactive content
+How can prompts be structured to foster user interaction with AI-generated media? (Format: Strategy guide)
+
+ 
+
+Creating videos/photos with storytelling
+How can prompts encourage the AI to tell compelling stories through visual media? (Format: Strategy guide)
+
+ 
+
+Designing for multiple screen sizes
+How can prompts ensure AI visuals are effective on mobiles, tablets, and desktops? (Format: Tips)
+
+ 
+
+Encouraging creative and unique responses
+What techniques encourage language models to generate innovative and distinctive answers? (Format: Tips)
+
+ 
+
+Encouraging creative and unique visual content
+How can prompts stimulate originality and visual appeal in AI media creations? (Format: Strategy guide)
+
+ 
+
+Encouraging detailed, comprehensive responses
+How can I write prompts that lead to thorough and expansive language model answers? (Format: Strategy guide)
+
+ 
+
+Encouraging multiple perspectives and critical thinking
+What are best practices for prompting the AI to explore various viewpoints critically? (Format: Tips)
+
+ 
+
+Encouraging outside-the-box thinking
+What strategies prompt the AI to provide unexpected and creative insights beyond conventional ideas? (Format: Strategy guide)
+
+ 
+
+Encouraging personal and engaging responses
+How can prompts be tailored to elicit more relatable and engaging answers? (Format: Strategy guide)
+
+ 
+
+Ensuring context relevance
+How can prompts be crafted to keep AI responses focused on the current situation or context? (Format: Tips)
+
+ 
+
+Ensuring quality and relevance in AI media
+What factors must be considered to produce high-quality and relevant video/photo content with AI? (Format: Strategy guide)
+
+ 
+
+Generating visually appealing videos or photos
+How can prompts be designed to encourage the AI to create compelling visual content? (Format: Strategy guide)
+
+ 
+
+Including branding elements in content
+How can prompts guide the AI to integrate logos, taglines, or branding into visuals? (Format: Tips)
+
+ 
+
+Including user-generated content
+How can prompts encourage AI to use reviews, social posts, or other user content in visuals? (Format: Tips)
+
+ 
+
+Incorporating colors, images, or themes
+How can prompts specify visual elements like colors or themes for AI-generated media? (Format: Tips)
+
+ 
+
+Incorporating user experience design
+What strategies help prompts use UX/UI principles for better visual content? (Format: Strategy guide)
+
+ 
+
+Industry-specific visual content
+How can prompts be designed to create visuals optimized for sectors like e-commerce or travel? (Format: Strategy guide)
+
+ 
+
+Inspiring imagination and creativity
+What prompt-writing strategies foster imaginative and creative thinking in language models? (Format: Strategy guide)
+
+ 
+
+Leveraging model strengths and weaknesses
+How can I craft prompts that challenge the AI’s capabilities while playing to its strengths? (Format: Strategy guide)
+
+ 
+
+Maintaining consistency with prior responses
+How can prompts ensure AI responses align with earlier interactions and answers? (Format: Strategy guide)
+
+ 
+
+Making generation prompts specific and targeted
+How can I refine my prompts to be more precise and focused for desired outcomes? (Format: Strategy guide)
+
+ 
+
+Matching intended tone and style
+How can prompts be written to keep the AI’s responses consistent with a desired tone or style? (Format: Strategy guide)
+
+ 
+
+Maximizing natural language processing skills
+What best practices ensure prompts utilize the AI’s full NLP capabilities? (Format: Tips)
+
+ 
+
+Optimizing content for platforms and devices
+What tips ensure AI-generated videos or photos are tailored to specific platforms or devices? (Format: Tips)
+
+ 
+
+Optimizing for accessibility and inclusivity
+How can prompts ensure AI media is usable by people with disabilities or from diverse cultures? (Format: Strategy guide)
+
+ 
+
+Optimizing for languages and cultures
+How can prompts guide AI to adapt visuals for different languages and cultural norms? (Format: Tips)
+
+ 
+
+Optimizing visuals for online platforms
+How can prompts encourage AI to tailor content for social media, search engines, or other sites? (Format: Strategy guide)
+
+ 
+
+Promoting accuracy and reliability
+How can I create prompts that encourage the AI to provide trustworthy and precise information? (Format: Tips)
+
+ 
+
+Promoting diversity and inclusiveness
+How can prompts be designed to encourage the AI to generate inclusive and diverse responses? (Format: Strategy guide)
+
+ 
+
+Structuring prompts for better understanding
+What strategies ensure prompts are well-organized and easy for language models to comprehend? (Format: Tips)
+
+ 
+
+Tips for effective generation prompts
+What are some best practices for crafting prompts that effectively guide language models like GPT-3? (Format: Tips)
+
+ 
+
+Using animation and digital effects
+What tips encourage prompts that leverage animation and special effects in AI visuals? (Format: Tips)
+
+ 
+
+Using audience and market knowledge
+What tips help tailor AI visual prompts to specific audiences or consumer behaviors? (Format: Tips)
+
+ 
+
+Using cinematography and lighting techniques
+What tips help prompts leverage visual arts techniques for higher-quality content? (Format: Tips)
+
+ 
+
+Using current trends in visuals
+What strategies help prompts incorporate fashion, culture, or trend knowledge into AI visuals? (Format: Strategy guide)
+
+ 
+
+Using design principles in visual prompts
+What strategies help incorporate design knowledge into prompts for better video or photo quality? (Format: Strategy guide)
+
+ 
+
+Using emerging technologies in visuals
+What tips help incorporate VR, AR, or other new tech into AI-generated videos or photos? (Format: Tips)
+
+ 
+
+Using general knowledge for effective prompts
+How can a language model’s broad understanding be harnessed to make prompts more effective? (Format: Strategy guide)
+
+ 
+
+Using past responses to improve prompts
+How can previous AI interactions be leveraged to create more effective future prompts? (Format: Strategy guide)
+
+ 
+
+Utilizing domain-specific knowledge
+What strategies help create prompts that leverage AI’s expertise in particular fields or industries? (Format: Strategy guide)
+
+ 
+
+Visual storytelling and narrative structure
+What strategies help prompts guide AI in crafting engaging narratives within visual media? (Format: Strategy guide)
+
+ 
+
+Writing context-aware prompts
+What tips help in creating prompts that consider the current conversation state and context? (Format: Tips)
+
+ 
+
+Writing engaging, thought-provoking prompts
+How can prompts be designed to stimulate deeper thinking and engagement from language models? (Format: Strategy guide)
+
+ 

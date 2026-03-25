@@ -1,0 +1,161 @@
+
+High-level Prompts
+Best practices for business-related prompts
+Use clear, respectful language appropriate for professional contexts, ensuring concise and formal prompt construction. (Format: List)
+
+ 
+
+Best practices for writing prompts for children
+Employ simple, clear wording and fun topics suitable for younger audiences, blending education with entertainment. (Format: List)
+
+ 
+
+Common prompt-writing mistakes
+Typical errors include overly broad questions, insufficient background information, and unclear instructions that misguide the AI. (Format: List)
+
+ 
+
+Crafting engaging prompts for conversation
+Develop prompts that invite open discussion and stimulate curiosity, encouraging the AI to explore the topic freely. (Format: List)
+
+ 
+
+Designing prompts for better responses
+State your expectations clearly, specify the information needed, and structure prompts to limit ambiguous interpretations. (Format: Strategy guide)
+
+ 
+
+Encouraging AI's knowledge of science and tech
+Ask for detailed technical explanations or updates on scientific advancements to generate expert-level content. (Format: Strategy guide)
+
+ 
+
+Encouraging AI's voice and personality
+Ask for answers that show style or character, inviting the AI to express opinions or distinctive tones. (Format: Tips)
+
+ 
+
+Example of a poorly-written prompt
+A vague prompt such as "Tell me about history" lacks focus. Specifying a particular era or figure improves the relevance of the response. (Format: Case study)
+
+ 
+
+Fun and educational prompts
+Combine engaging topics with informative content to create prompts that are both enjoyable and enlightening. (Format: Tips)
+
+ 
+
+Getting detailed and accurate responses
+Specify the depth of detail required, provide sufficient context, and request examples or explanations when applicable. (Format: List)
+
+ 
+
+How to make prompts clear and concise
+Eliminate vagueness in your wording by using precise language and making requests straightforward to avoid confusion. (Format: Strategy guide)
+
+ 
+
+Importance of specificity in prompts
+Being specific reduces ambiguity and enables the AI to produce responses that closely match the intended topic or question. (Format: Explanation)
+
+ 
+
+Prompts encouraging AI self-reflection
+How to write prompts that prompt the AI to assess its own responses or reasoning processes? (Format: Strategy guide)
+
+ 
+
+Prompts encouraging ethical AI use
+What prompts help promote responsible and ethical considerations in AI-generated content? (Format: Tips)
+
+ 
+
+Prompts for academic and research settings
+Craft formal, focused prompts relevant to scholarly topics that require accurate and well-researched responses. (Format: List)
+
+ 
+
+Prompts for collaborative problem-solving
+What prompts encourage AI to participate effectively in teamwork and collective brainstorming? (Format: Tips)
+
+ 
+
+Prompts for cross-disciplinary insights
+Design prompts that require AI to integrate knowledge from multiple fields to provide comprehensive answers. (Format: List)
+
+ 
+
+Prompts for ethical and philosophical insights
+Invite exploration of moral dilemmas or philosophical questions to stimulate deep and reflective responses. (Format: Tips)
+
+ 
+
+Prompts for fiction and storytelling
+Encourage the creation of imaginative stories, characters, or settings to inspire narrative-driven responses. (Format: Tips)
+
+ 
+
+Prompts for humor and wit
+Use playful language or lighthearted topics to invite the AI to craft witty or humorous responses. (Format: Tips)
+
+ 
+
+Prompts for imaginative and creative responses
+Invite speculation or hypothetical thinking to encourage the AI to explore inventive ideas without limits. (Format: Strategy guide)
+
+ 
+
+Prompts for long, in-depth responses
+Encourage elaboration by posing open-ended questions with enough background to inspire thorough answers. (Format: List)
+
+ 
+
+Prompts for personal and emotional responses
+Focus on scenarios involving empathy, personal experiences, or emotions to elicit more heartfelt and reflective replies. (Format: Strategy guide)
+
+ 
+
+Prompts that inspire critical thinking
+Pose questions that challenge assumptions, weigh pros and cons, or analyze complex issues to promote thoughtful answers. (Format: Strategy guide)
+
+ 
+
+Qualities of a good prompt for AI
+A well-constructed prompt for language models like ChatGPT must be clear, specific, and concise. Providing relevant context and a direct task is essential. (Format: List)
+
+ 
+
+Strategies for AI learning and adaptation
+How can prompts be structured to help AI improve understanding and adapt to new information? (Format: Strategy guide)
+
+ 
+
+Tips for creative and original prompts
+Create prompts that spark imaginative ideas by asking for unique viewpoints, hypothetical situations, or unconventional approaches. (Format: Tips)
+
+ 
+
+Using current events in prompts
+Ask the AI to incorporate up-to-date information on trends, news, or popular culture in its answers. (Format: Strategy guide)
+
+ 
+
+Writing culturally sensitive prompts
+Be aware of diverse cultural norms, avoid stereotypes, and ensure prompts respect all backgrounds and perspectives. (Format: Tips)
+
+ 
+
+Writing prompts based on history and art
+Request in-depth discussion of historical periods, artistic styles, or literary works to utilize the AI’s cultural knowledge. (Format: Tips)
+
+ 
+
+Writing prompts for different audiences
+Adjust tone, detail, and complexity to fit various audiences, tailoring prompts to meet their needs and expectations. (Format: Strategy guide)
+
+ 
+
+Writing prompts for entrepreneurship and innovation
+Explore new ideas, business strategies, or innovative solutions to foster creative thinking about entrepreneurship. (Format: List)
+
+ 

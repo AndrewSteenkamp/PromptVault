@@ -1,0 +1,251 @@
+
+Forecasting Prompts
+Attracting and retaining top talent
+What steps can a business take to attract and retain top talent? (Format: Strategy guide)
+
+ 
+
+Best practices for recommendation prompts
+What are the best practices for writing prompts that ask the language model to make recommendations or suggestions? (Format: Strategy guide)
+
+ 
+
+Bias-free evaluation or recommendation prompts
+Can you suggest how to write prompts that encourage the language model to give an evaluation or recommendation free from bias? (Format: Tips)
+
+ 
+
+Challenging the language model to think critically
+How can I write prompts that challenge the language model to think critically and provide sophisticated perspectives? (Format: Strategy guide)
+
+ 
+
+Common pitfalls in crafting prediction or evaluation prompts
+What are some frequent mistakes to avoid when writing prompts that ask for predictions, recommendations, or evaluations? (Format: Tips)
+
+ 
+
+Comprehensive evaluation or prediction prompts
+What are some tips for writing prompts that guide the language model to provide detailed and comprehensive evaluations or predictions? (Format: Tips)
+
+ 
+
+Considering broader context in evaluation prompts
+How can I write prompts that guide the language model to consider the broader context when making predictions or evaluations? (Format: Strategy guide)
+
+ 
+
+Considering consequences in prediction prompts
+How can I write prompts that ask the language model to consider the potential consequences or implications of its predictions or recommendations? (Format: Strategy guide)
+
+ 
+
+Considering multiple perspectives in evaluation prompts
+How can I write prompts that encourage the language model to consider multiple perspectives when providing evaluations or predictions? (Format: Strategy guide)
+
+ 
+
+Context-specific recommendation prompts
+Can you provide examples of prompts that ask the language model to offer recommendations in specific contexts or scenarios? (Format: List)
+
+ 
+
+Crafting comparison or contrast prompts
+What strategies help in writing prompts that ask the language model to compare or contrast multiple options or ideas? (Format: Strategy guide)
+
+ 
+
+Crafting prompts for evaluation or judgment
+What factors should be considered when creating prompts that ask the language model to assess or judge a situation? (Format: Strategy guide)
+
+ 
+
+Diversifying revenue streams
+What are some ways to diversify a company's revenue streams? (Format: Strategy guide)
+
+ 
+
+Encouraging in-depth and well-reasoned predictions
+How can I write prompts that inspire the language model to provide detailed and well-reasoned predictions or forecasts? (Format: Strategy guide)
+
+ 
+
+Ensuring consistency in evaluations
+How can I ensure that the language model’s evaluations or predictions are consistent with its previous responses and knowledge? (Format: Strategy guide)
+
+ 
+
+Ensuring reliable information for evaluations or predictions
+How can I make sure that the language model’s evaluations or predictions are based on accurate and reliable information? (Format: Strategy guide)
+
+ 
+
+Ensuring thoughtful evaluations in prompts
+How can I write prompts that ensure the language model provides a considered and well-thought-out evaluation? (Format: Tips)
+
+ 
+
+Ensuring up-to-date and relevant evaluations
+How can I ensure that the language model’s evaluations or predictions are based on the most current and relevant information? (Format: Strategy guide)
+
+ 
+
+Evaluating marketing campaign ROI
+Can you evaluate the potential return on investment for a new marketing campaign? (Format: Strategy guide)
+
+ 
+
+Evaluating partnership impact
+Can you evaluate the potential impact of a new partnership on a company's growth? (Format: Strategy guide)
+
+ 
+
+Evaluating product success through market research
+Can you evaluate the potential success of a new product based on market research? (Format: Strategy guide)
+
+ 
+
+Examples of effective prediction prompts
+Can you provide examples of well-written prompts that ask the language model for predictions or forecasts? (Format: List)
+
+ 
+
+Examples of nuanced evaluation prompts
+Can you provide examples of prompts that encourage the language model to offer nuanced, sophisticated evaluations? (Format: List)
+
+ 
+
+Expanding global presence
+Can you recommend strategies for expanding a company's global presence? (Format: Strategy guide)
+
+ 
+
+Impact of government regulations
+Can you predict the impact of a change in government regulations on a specific industry? (Format: Strategy guide)
+
+ 
+
+Impact of new technologies
+Can you predict the effect of new technologies on a specific industry? (Format: Strategy guide)
+
+ 
+
+Improving brand reputation
+What are some ways to improve a company's brand reputation? (Format: Strategy guide)
+
+ 
+
+Improving financial performance
+What are some ways to improve a company's financial performance? (Format: Strategy guide)
+
+ 
+
+Improving market competitiveness
+How can a business improve its competitiveness in a crowded market? (Format: Strategy guide)
+
+ 
+
+Improving online presence
+What steps can a business take to improve its online presence? (Format: Strategy guide)
+
+ 
+
+Increasing customer loyalty
+What steps can a business take to increase customer loyalty? (Format: Strategy guide)
+
+ 
+
+Increasing profitability
+What steps can a business take to increase profitability? (Format: Strategy guide)
+
+ 
+
+Mitigating risks in mergers and acquisitions
+How can a business identify and mitigate risks in mergers and acquisitions? (Format: Strategy guide)
+
+ 
+
+Optimizing supply chain management
+Can you recommend strategies for optimizing a company's supply chain management? (Format: Strategy guide)
+
+ 
+
+Predicting industry futures
+Can you predict the future of a specific industry based on current trends? (Format: Strategy guide)
+
+ 
+
+Predicting market trends
+What are some ways to predict market trends for a specific industry? (Format: Strategy guide)
+
+ 
+
+Prompts for creative and unconventional recommendations
+How can I encourage the language model to offer creative and unconventional recommendations or evaluations? (Format: Tips)
+
+ 
+
+Reducing costs and increasing efficiency
+Can you recommend strategies for reducing costs and increasing efficiency? (Format: Strategy guide)
+
+ 
+
+Responding to market changes
+How can a business improve its ability to respond to changes in the market? (Format: Strategy guide)
+
+ 
+
+Strategies for crafting prediction prompts
+What are some effective approaches for writing prompts that ask for predictions or forecasts? (Format: Strategy guide)
+
+ 
+
+Streamlining internal processes
+Can you recommend strategies for streamlining a company's internal processes? (Format: Strategy guide)
+
+ 
+
+Timely and efficient evaluation prompts
+What tips help write prompts that encourage the language model to deliver evaluations or predictions in a timely and efficient manner? (Format: Tips)
+
+ 
+
+Tips for writing focused recommendation prompts
+What strategies help in writing prompts that ask for recommendations with a specific focus or emphasis? (Format: Tips)
+
+ 
+
+Using current data for evaluations or predictions
+What strategies can be used to ensure that the language model’s evaluations or predictions are based on the most current and relevant data? (Format: Tips)
+
+ 
+
+Using specific criteria in recommendation prompts
+What strategies help craft prompts that ask the language model to evaluate or recommend based on specific criteria or priorities? (Format: Strategy guide)
+
+ 
+
+Writing balanced and impartial evaluation prompts
+How can I write prompts that guide the language model to provide an unbiased and balanced evaluation? (Format: Tips)
+
+ 
+
+Writing prediction prompts with certainty
+What are the best ways to write prompts that encourage the language model to give a prediction with high certainty? (Format: Tips)
+
+ 
+
+Writing prompts for insightful or innovative recommendations
+What methods can be used to craft prompts that encourage the language model to offer creative and innovative suggestions? (Format: Tips)
+
+ 
+
+Writing prompts that encourage recommendations
+How can I craft prompts that inspire the language model to offer suggestions or recommendations? (Format: Strategy guide)
+
+ 
+
+Writing well-supported prediction prompts
+What strategies help write prompts that guide the language model to offer logically sound and well-supported predictions or recommendations? (Format: Tips)
+
+ 
