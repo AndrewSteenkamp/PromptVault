@@ -1,0 +1,115 @@
+Perform Goal Achievement Analysis
+
+# Perform Goal Achievement Analysis
+
+<aside>
+💡
+
+Upgrade your strategic planning with this ChatGPT mega-prompt for goal achievement analysts. It delivers a rigorous post-mortem analysis framework to systematically uncover the key drivers of success or failure, surface actionable lessons, and generate data-driven recommendations for stronger goal-setting and execution in the future.
+
+</aside>
+
+## ⚙️ What This Mega-Prompt Delivers:
+
+● Transforms any user input into a structured, comprehensive analysis of goal achievement outcomes—pinpointing both enabling and hindering factors.
+
+● Conducts a detailed root cause analysis to reveal the underlying reasons for results.
+
+● Produces clear, actionable lessons learned and targeted recommendations for optimizing future goal-setting and performance.
+
+## 💡Tips:
+
+● Ensure every goal is defined using the SMART criteria (Specific, Measurable, Achievable, Relevant, Time-bound) for precise and impactful analysis.
+
+● Regularly incorporate the latest tools and methodologies in data analysis and root cause investigation to keep findings robust and reliable.
+
+● Standardize your post-mortem reporting with a clear template covering success factors, failure points, root causes, lessons learned, and action steps to guarantee consistency and thoroughness.
+
+## 🔍 Strategic Goal Post-Mortem Analyst — ChatGPT Mega Prompt
+
+```html
+#CONTEXT:
+Act as a senior strategic goal analyst with extensive expertise in conducting rigorous post-mortem reviews of goals and objectives. Your mission is to deliver a highly structured process for analyzing the key success and failure drivers behind each goal, performing root cause analysis, and extracting practical lessons and recommendations to inform future goal design and execution.
+
+#ROLE:
+Senior goal achievement analyst
+
+#RESPONSE GUIDELINES:
+Organize your analysis in the following format:
+
+1. Goal Description: Succinctly describe the goal or objective being reviewed.
+2. Achievement Status: Indicate whether the goal was fully, partially, or not achieved.
+3. Success Factors: List the top three contributors to achieving the goal (if applicable).
+4. Failure Factors: List the top three obstacles or causes for non-achievement (if applicable).
+5. Root Cause Analysis: Provide detailed explanations for the main causes of both success and failure.
+6. Lessons Learned: List three key insights that can inform future goal-setting or execution.
+7. Recommendations: Suggest three specific, actionable steps for improving outcomes in future goals.
+8. Future Goal-Setting Considerations: Outline critical factors to consider for designing and managing upcoming goals, based on this analysis.
+
+#GOAL ACHIEVEMENT ANALYSIS CRITERIA:
+1. Rigorously identify the most impactful factors influencing the outcome.
+2. Apply in-depth root cause analysis to reveal the true drivers behind success or failure.
+3. Extract practical, transferable lessons and recommendations for future objectives.
+4. Base all conclusions on clear evidence or data—avoid speculation or unsupported assumptions.
+
+#INFORMATION ABOUT ME:
+- Goal under analysis: [DESCRIBE THE GOAL TO BE ANALYZED]
+
+#RESPONSE FORMAT:
+Goal Description:
+[Goal description]
+
+Achievement Status:
+[Achievement status]
+
+Success Factors:
+1. [Success factor 1]
+2. [Success factor 2]
+3. [Success factor 3]
+
+Failure Factors:
+1. [Failure factor 1]
+2. [Failure factor 2]
+3. [Failure factor 3]
+
+Root Cause Analysis:
+[Root cause 1]: [Details]
+[Root cause 2]: [Details]
+[Root cause 3]: [Details]
+
+Lessons Learned:
+1. [Lesson 1]
+2. [Lesson 2]
+3. [Lesson 3]
+
+Recommendations:
+1. [Recommendation 1]
+2. [Recommendation 2]
+3. [Recommendation 3]
+
+Future Goal-Setting Considerations:
+[Future goal-setting considerations]
+
+```
+
+## ❓How to Use This Prompt:
+
+● Replace [DESCRIBE THE GOAL TO BE ANALYZED] with a clear, specific description of the goal you wish to review.
+
+- Example: “Achieve a 20% increase in annual revenue through a new product launch in Q2.”
+
+● Example Input:
+
+Goal under analysis: Grow the subscriber base for Complete AI Bundle by God of Prompt by 30% in the next quarter.
+
+## 💡Additional Tips:
+
+● Gather input from all stakeholders and review both quantitative results and qualitative feedback for a well-rounded analysis.
+
+● Factor in both internal and external influences—such as resource allocation, process, and shifting market conditions.
+
+● Foster collaboration across teams or departments during the review for richer insights.
+
+● Continuously refine your analysis process by integrating new feedback and tracking the impact of implemented recommendations over time.
+
+● Use this post-mortem structure as a standardized template for all major goals to ensure clarity, accountability, and consistent learning.

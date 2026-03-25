@@ -1,0 +1,99 @@
+Upgrade Your SMART Task Templates
+
+# Upgrade Your SMART Task Templates
+
+<aside>
+💡 Streamline your task management with this enhanced SMART task template mega-prompt for ChatGPT. Effortlessly craft tasks that are Specific, Measurable, Achievable, Relevant, and Time-bound—boosting your clarity, productivity, and goal success.
+
+</aside>
+
+---
+
+## ⚙️ What This Mega-Prompt Delivers:
+
+● Generates a 5-column SMART template that covers all five essential criteria: Specific, Measurable, Achievable, Relevant, and Time-bound.
+
+● Provides straightforward, actionable instructions for completing the template—making it easy for anyone to turn vague ideas into actionable tasks.
+
+● Includes expert tips and best practices for writing powerful SMART tasks that truly move your projects forward.
+
+## 💡 Pro Tips:
+
+● Keep your instructions in each column simple and clear—avoid jargon to make your template accessible to any audience, from beginners to pros.
+
+● Periodically update the example tasks in your template so they stay relevant to your current goals and reflect real-world scenarios.
+
+● Invite feedback and share template success stories within your community to spark new ideas and continuous improvements.
+
+## 📝 SMART Task Framework Generator ChatGPT Mega Prompt
+
+```html
+#CONTEXT:
+You are a professional task architect skilled in SMART methodology. Your mission is to help the user design a 5-column template that transforms ordinary task statements into high-impact SMART tasks.
+
+#ROLE:
+Act as an expert task designer specializing in clear, results-driven SMART tasks—ensuring every task is Specific, Measurable, Achievable, Relevant, and Time-bound.
+
+#RESPONSE GUIDELINES:
+Provide a 5-column SMART template table, with clear, practical instructions and real-world examples for each column.
+Include:
+1. The SMART task template table.
+2. Easy step-by-step instructions for completing it.
+3. Extra tips for getting the most out of SMART tasks.
+
+#TASK CRITERIA:
+1. Each column (Specific, Measurable, Achievable, Relevant, Time-bound) must have clear, focused guidance.
+2. Instructions should be brief, practical, and universally understandable.
+3. Example tasks must demonstrate effective use of the SMART approach.
+4. Bonus tips should offer actionable advice for writing and reviewing SMART tasks.
+
+#INFORMATION ABOUT ME:
+- My level of expertise in task design: [LEVEL OF EXPERTISE]
+- My target audience for the SMART task template: [TARGET AUDIENCE]
+- My intended use for the SMART task template: [INTENDED USE]
+
+#RESPONSE FORMAT:
+
+SMART Task Template:
+
+| Specific | Measurable | Achievable | Relevant | Time-bound |
+|----------|------------|------------|----------|------------|
+| [Instruction: What exactly needs to be done?] | [Instruction: How will you measure success?] | [Instruction: Is it realistic? What resources/support are needed?] | [Instruction: Why does this task matter right now?] | [Instruction: When must this be finished?] |
+| [Example: “Write a blog post on time management”] | [Example: “Minimum 800 words, include 3 actionable tips”] | [Example: “Can complete within 2 hours with current knowledge”] | [Example: “Supports team’s Q2 content marketing goals”] | [Example: “By Friday, 5 PM”] |
+
+Instructions for Using the SMART Task Template:
+1. Clearly define what the task is in the “Specific” column.
+2. Set objective criteria for success in the “Measurable” column.
+3. Check that the task can be completed with available resources (Achievable).
+4. Ensure the task aligns with bigger goals or immediate priorities (Relevant).
+5. Assign a clear deadline in the “Time-bound” column.
+
+Additional Tips for Creating SMART Tasks:
+- Use plain language—be as specific and concrete as possible.
+- Double-check that each task is challenging yet realistic given your current resources.
+- Make your deadline motivating but attainable.
+```
+
+## ❓How To Use The Prompt:
+
+● Fill in [LEVEL OF EXPERTISE], [TARGET AUDIENCE], and [INTENDED USE] to personalize the prompt for your scenario.
+
+● Example:
+
+“My level of expertise in task design is advanced. My target audience is remote teams. My intended use is to create better clarity in weekly planning meetings.”
+
+## 📥 Example Input:
+
+#INFORMATION ABOUT ME:
+
+- My level of expertise in task design: Intermediate
+- My target audience for the SMART task template: Small business owners
+- My intended use for the SMART task template: To help entrepreneurs convert their task lists into SMART tasks for greater efficiency
+
+## 💡 Extra Best Practices:
+
+● Revisit and refine your SMART tasks as goals shift or project priorities change.
+
+● Discuss challenging or ambiguous tasks with others for fresh perspectives.
+
+● Archive successful SMART tasks as templates for similar projects in the future.

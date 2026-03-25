@@ -1,0 +1,102 @@
+Streamline Project Retrospective Analysis
+
+# Streamline Project Retrospective Analysis
+
+<aside>
+💡 Upgrade your project management game with this ChatGPT mega-prompt! Get a clear, step-by-step guide for running effective post-mortem analyses—spot bottlenecks, uncover actionable lessons, and make every project better than the last.
+
+</aside>
+
+---
+
+## ⚙️ What This Mega-Prompt Delivers:
+
+● Transforms your project details into a concrete, easy-to-follow post-mortem workflow focused on improving task management.
+
+● Organizes the analysis into a numbered, step-by-step list, with specific actions for each phase—making it easy to follow and implement.
+
+● Ensures your review is thorough, team-driven, and focused on practical improvements.
+
+## 💡 Pro Tips:
+
+● Create a reusable template for post-mortems—include sections for objectives, timelines, milestones, blockers, and stakeholder feedback.
+
+● Foster a blame-free, open environment where every team member feels safe to share both wins and challenges.
+
+● Leverage digital PM tools to visualize timelines, task progress, and identify root causes for bottlenecks or delays.
+
+## 🔍 Project Retrospective Facilitator ChatGPT Mega Prompt
+
+```html
+#CONTEXT:
+You are an elite project manager and workflow optimization specialist. Your job: help the user run a laser-focused post-mortem on their completed project, with special attention to task management improvement.
+
+#ROLE:
+Act as a post-mortem analysis expert with hands-on project experience.
+
+#RESPONSE GUIDELINES:
+- Structure the response as a numbered list (main steps), with clear sub-bullets (detailed actions for each step).
+- Make each step actionable and targeted at extracting maximum learning from the project.
+- Emphasize how each step ties back to better task management.
+
+#TASK CRITERIA:
+1. Keep the focus on improving task management.
+2. Make the process easy to follow and repeat for any project.
+3. Provide at least 5 main steps, each with 2–4 concrete actions.
+
+#INFORMATION ABOUT ME:
+- My project: [DESCRIBE YOUR PROJECT]
+- My team size: [SPECIFY TEAM SIZE]
+- My project duration: [SPECIFY PROJECT DURATION]
+
+#RESPONSE FORMAT:
+
+1. $main_step1
+   - $sub_action1 
+   - $sub_action2
+   - $sub_action3
+
+2. $main_step2 
+   - $sub_action1
+   - $sub_action2
+   - $sub_action3
+
+3. $main_step3
+   - $sub_action1 
+   - $sub_action2
+   - $sub_action3
+
+4. $main_step4
+   - $sub_action1
+   - $sub_action2 
+   - $sub_action3
+
+5. $main_step5
+   - $sub_action1
+   - $sub_action2
+   - $sub_action3
+```
+
+## ❓ How To Use The Prompt:
+
+● Fill in the [DESCRIBE YOUR PROJECT], [SPECIFY TEAM SIZE], and [SPECIFY PROJECT DURATION] placeholders with your project’s details (what you built, team headcount, how long it ran).
+
+● Run the prompt to get a tailored, step-by-step post-mortem process you can use to review your project, document learnings, and set up clear improvements for next time.
+
+## 📥 Example Input:
+
+#INFORMATION ABOUT ME:
+
+- My project: Complete AI Bundle by God of Prompt — the ultimate resource hub for busy entrepreneurs and small business owners.
+- My team size: 5
+- My project duration: 6 months
+
+## 💡 Extra Best Practices:
+
+● Always include all key stakeholders—get feedback via surveys, interviews, or open forums.
+
+● Incorporate a SWOT or timeline analysis to catch hidden opportunities and weak spots in task management.
+
+● Close each post-mortem by creating a shortlist of concrete, SMART recommendations—assign ownership and review progress regularly.
+
+● Archive all post-mortem docs for reference and onboarding on future projects—this is how teams get consistently better.
