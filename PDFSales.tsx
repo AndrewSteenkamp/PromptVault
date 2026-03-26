@@ -2,61 +2,94 @@ import { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
-import { Check, Zap, TrendingUp, Sparkles } from 'lucide-react';
+import { Check, Zap, TrendingUp, Sparkles, Package } from 'lucide-react';
 import { trpc } from '@/lib/trpc';
 
 const PRODUCTS = [
   {
     id: 1,
-    name: 'AI Tools & Automation',
+    name: 'AI Tools & Automation (Single)',
     tagline: 'Work Smarter, Not Harder',
     description: 'Master ChatGPT, Claude, and 50+ AI tools with battle-tested prompts designed to automate your workflow and save 10+ hours per week.',
     price: 17,
-    filename: 'ai-tools-automation.pdf',
+    filename: 'Product_AI_Tools_and_Automation.pdf',
     icon: Zap,
-    benefits: [
-      'ChatGPT prompt templates',
-      'Claude optimization guides',
-      'Automation workflows',
-      'Integration strategies'
-    ],
+    benefits: ['158+ Technical Guides', 'ChatGPT & Claude mastery', 'Automation workflows', 'Integration strategies'],
     color: 'from-blue-600 to-cyan-600',
     accent: 'bg-blue-500/10 border-blue-500/30',
   },
   {
     id: 2,
-    name: 'Content Creation & Marketing',
+    name: 'Content Creation & Marketing (Single)',
     tagline: 'Go Viral with AI',
     description: 'Create scroll-stopping content, viral copy, and high-converting marketing campaigns. Used by 1000+ creators and marketers.',
-    price: 17,
-    filename: 'content-creation-marketing.pdf',
+    price: 27,
+    filename: 'Product_Content_Creation_and_Marketing.pdf',
     icon: Sparkles,
-    benefits: [
-      'Viral content formulas',
-      'Social media templates',
-      'Email copy frameworks',
-      'Ad copy generators'
-    ],
+    benefits: ['20+ Marketing Frameworks', 'Social media templates', 'Email copy formulas', 'Ad copy generators'],
     color: 'from-purple-600 to-pink-600',
     accent: 'bg-purple-500/10 border-purple-500/30',
   },
   {
     id: 3,
-    name: 'Sales & Revenue Generation',
+    name: 'Sales & Revenue Generation (Single)',
     tagline: 'Close More Deals',
     description: 'Proven sales funnels, persuasive copywriting, and deal-closing techniques. Trusted by top sales professionals and entrepreneurs.',
-    price: 17,
-    filename: 'sales-revenue-generation.pdf',
+    price: 37,
+    filename: 'Product_Sales_and_Revenue_Generation.pdf',
     icon: TrendingUp,
-    benefits: [
-      'Sales funnel templates',
-      'Objection handling',
-      'Closing techniques',
-      'Revenue optimization'
-    ],
+    benefits: ['41+ Sales & Funnel Guides', 'Objection handling', 'Closing techniques', 'Revenue optimization'],
     color: 'from-green-600 to-emerald-600',
     accent: 'bg-green-500/10 border-green-500/30',
   },
+  {
+    id: 4,
+    name: 'Bundle: AI + Content Marketing',
+    tagline: 'Automate & Go Viral',
+    description: 'Combine the power of AI tool mastery with viral content generation. Automate your entire marketing pipeline.',
+    price: 34,
+    filename: 'Bundle_AI_and_Content.zip',
+    icon: Package,
+    benefits: ['Includes AI Tools PDF', 'Includes Content Marketing PDF', 'Over 170+ total guides', '$10 Bundle Discount'],
+    color: 'from-indigo-600 to-blue-600',
+    accent: 'bg-indigo-500/10 border-indigo-500/30',
+  },
+  {
+    id: 5,
+    name: 'Bundle: AI + Sales Revenue',
+    tagline: 'Automate & Close',
+    description: 'The ultimate backend operations bundle. Master the tools and build the exact funnels that drive direct revenue.',
+    price: 44,
+    filename: 'Bundle_AI_and_Sales.zip',
+    icon: Package,
+    benefits: ['Includes AI Tools PDF', 'Includes Sales & Revenue PDF', 'Over 190+ total guides', '$10 Bundle Discount'],
+    color: 'from-teal-600 to-green-600',
+    accent: 'bg-teal-500/10 border-teal-500/30',
+  },
+  {
+    id: 6,
+    name: 'Bundle: Content + Sales',
+    tagline: 'The Growth Engine',
+    description: 'The perfect front-end bundle. Generate massive attention with content and convert it seamlessly with proven sales funnels.',
+    price: 49,
+    filename: 'Bundle_Content_and_Sales.zip',
+    icon: Package,
+    benefits: ['Includes Content Marketing PDF', 'Includes Sales & Revenue PDF', 'Over 60+ targeted guides', '$15 Bundle Discount'],
+    color: 'from-rose-600 to-orange-600',
+    accent: 'bg-rose-500/10 border-rose-500/30',
+  },
+  {
+    id: 7,
+    name: 'THE ULTIMATE PROMPT VAULT',
+    tagline: 'The Complete Business Brain',
+    description: 'Unlock the entire 219-guide ecosystem. AI mastery, viral marketing, and high-ticket sales frameworks all in one place.',
+    price: 59,
+    filename: 'Bundle_Ultimate_Vault.zip',
+    icon: Package,
+    benefits: ['All 3 Core PDFs Included', '219 Master Guides', 'Save $22 Instantly', 'Lifetime knowledge access'],
+    color: 'from-yellow-500 to-red-600',
+    accent: 'bg-yellow-500/10 border-yellow-500/30',
+  }
 ];
 
 export default function PDFSales() {
