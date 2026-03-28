@@ -12,7 +12,7 @@ const PRODUCTS = [
     tagline: 'Work Smarter, Not Harder',
     description: 'Master ChatGPT, Claude, and 50+ AI tools with battle-tested prompts designed to automate your workflow and save 10+ hours per week.',
     price: 17,
-    filename: 'Product_AI_Tools_and_Automation.pdf',
+    filename: 'https://dailyinsighttoday.com/wp-content/uploads/2026/03/Product_AI_Tools_and_Automation.pdf',
     icon: Zap,
     benefits: ['158+ Technical Guides', 'ChatGPT & Claude mastery', 'Automation workflows', 'Integration strategies'],
     color: 'from-blue-600 to-cyan-600',
@@ -24,7 +24,7 @@ const PRODUCTS = [
     tagline: 'Go Viral with AI',
     description: 'Create scroll-stopping content, viral copy, and high-converting marketing campaigns. Used by 1000+ creators and marketers.',
     price: 27,
-    filename: 'Product_Content_Creation_and_Marketing.pdf',
+    filename: 'https://dailyinsighttoday.com/wp-content/uploads/2026/03/Product_Content_Creation_and_Marketing.pdf',
     icon: Sparkles,
     benefits: ['20+ Marketing Frameworks', 'Social media templates', 'Email copy formulas', 'Ad copy generators'],
     color: 'from-purple-600 to-pink-600',
@@ -36,7 +36,7 @@ const PRODUCTS = [
     tagline: 'Close More Deals',
     description: 'Proven sales funnels, persuasive copywriting, and deal-closing techniques. Trusted by top sales professionals and entrepreneurs.',
     price: 37,
-    filename: 'Product_Sales_and_Revenue_Generation.pdf',
+    filename: 'https://dailyinsighttoday.com/wp-content/uploads/2026/03/Product_Sales_and_Revenue_Generation.pdf',
     icon: TrendingUp,
     benefits: ['41+ Sales & Funnel Guides', 'Objection handling', 'Closing techniques', 'Revenue optimization'],
     color: 'from-green-600 to-emerald-600',
@@ -48,7 +48,7 @@ const PRODUCTS = [
     tagline: 'Automate & Go Viral',
     description: 'Combine the power of AI tool mastery with viral content generation. Automate your entire marketing pipeline.',
     price: 34,
-    filename: 'Bundle_AI_and_Content.zip',
+    filename: 'https://dailyinsighttoday.com/wp-content/uploads/2026/03/Bundle_AI_and_Content.zip',
     icon: Package,
     benefits: ['Includes AI Tools PDF', 'Includes Content Marketing PDF', 'Over 170+ total guides', '$10 Bundle Discount'],
     color: 'from-indigo-600 to-blue-600',
@@ -60,7 +60,7 @@ const PRODUCTS = [
     tagline: 'Automate & Close',
     description: 'The ultimate backend operations bundle. Master the tools and build the exact funnels that drive direct revenue.',
     price: 44,
-    filename: 'Bundle_AI_and_Sales.zip',
+    filename: 'https://dailyinsighttoday.com/wp-content/uploads/2026/03/Bundle_AI_and_Sales.zip',
     icon: Package,
     benefits: ['Includes AI Tools PDF', 'Includes Sales & Revenue PDF', 'Over 190+ total guides', '$10 Bundle Discount'],
     color: 'from-teal-600 to-green-600',
@@ -72,7 +72,7 @@ const PRODUCTS = [
     tagline: 'The Growth Engine',
     description: 'The perfect front-end bundle. Generate massive attention with content and convert it seamlessly with proven sales funnels.',
     price: 49,
-    filename: 'Bundle_Content_and_Sales.zip',
+    filename: 'https://dailyinsighttoday.com/wp-content/uploads/2026/03/Bundle_Content_and_Sales.zip',
     icon: Package,
     benefits: ['Includes Content Marketing PDF', 'Includes Sales & Revenue PDF', 'Over 60+ targeted guides', '$15 Bundle Discount'],
     color: 'from-rose-600 to-orange-600',
@@ -84,7 +84,7 @@ const PRODUCTS = [
     tagline: 'The Complete Business Brain',
     description: 'Unlock the entire 219-guide ecosystem. AI mastery, viral marketing, and high-ticket sales frameworks all in one place.',
     price: 59,
-    filename: 'Bundle_Ultimate_Vault.zip',
+    filename: 'https://dailyinsighttoday.com/wp-content/uploads/2026/03/Bundle_Ultimate_Vault.zip',
     icon: Package,
     benefits: ['All 3 Core PDFs Included', '219 Master Guides', 'Save $22 Instantly', 'Lifetime knowledge access'],
     color: 'from-yellow-500 to-red-600',
@@ -115,8 +115,8 @@ export default function PDFSales() {
 
       // Download the PDF
       const link = document.createElement('a');
-      link.href = `/${product.filename}`;
-      link.download = product.filename;
+      link.href = product.filename;
+      link.download = product.filename.split('/').pop() || 'download';
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
